@@ -1,9 +1,9 @@
 :root {
-    --color-1: #EF476F;
-    --color-2: #FFD166;
-    --color-3: #06D6A0;
-    --color-4: #118AB2;
-    --color-5: #073B4C;
+    --color-1: #EF476F; /* (239, 71, 111) */
+    --color-2: #FFD166; /* (255, 209, 102) */
+    --color-3: #06D6A0; /* (6, 214, 160) */
+    --color-4: #118AB2; /* (17, 138, 178) */
+    --color-5: #073B4C; /* (7, 59, 76) */
 }
 
 body {
@@ -19,4 +19,8 @@ body {
     background-color: var(--color-5);
     width: 100%;
     height: 80%;
+}
+
+.info-block {
+    line-height: 0.5em;
 }

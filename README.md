@@ -2,13 +2,13 @@
 
 ## Description
 
-Simple demonstration of reverberation-like process.
+Simple visualization of reverberation-like process.
 
 ## How to use
 
 Go to https://vasiliismirnov.github.io/reverberation-demo/
 
-Click on the area above to start reverberation process. Click again to stop.
+Click on the area above to start/stop reverberation process.
 
 Several particles moving in random direction will be spawned.
 
